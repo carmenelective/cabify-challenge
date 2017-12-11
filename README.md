@@ -34,8 +34,7 @@ The business goal is to sell more cars and more spare parts for cars, through a 
 * Visual look of a service platform with chat, technical support, shoppers advice...
 * Provide direct option Add to basket, reproduce traditional Amazon good practice for these testing version of AVS (Amazon Vehicle Services).
 
-![Image of amazon]
-(https://Users/apple/Desktop/AVS.jpg)
+
  
 **3. In detail, explain which data you’d like to get access to (data from Auto/vehicles existing users or other categories or sections of Amazon.com) in order to do your job?**
 
