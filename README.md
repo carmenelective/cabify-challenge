@@ -1,9 +1,9 @@
 ## cabify-challenge
 
-**What's your hypothesis about what's going on here?**
+**1. What's your hypothesis about what's going on here?**
 Amazon does have users interacting with the auto purchase section and does have  users aspiring to purchase cars, but data shows users are purchasing the little accessories: auto stickers, motor oil, and wiper blades, for some reason  users are leaving the automobile purchase section.
 
-**Based on your hypothesis, detail your next steps. How will you approach this challenge? What needs to be done?**
+**2.Based on your hypothesis, detail your next steps. How will you approach this challenge? What needs to be done?**
 
 The business goal is to sell more cars and more spare parts for cars, through a customer journey people who buy car  require advice  and a more detailed customer service. 
 
@@ -48,7 +48,7 @@ Let's play a  fictitious survey and results in order to be able to provide insig
 
 
 
-**Insights and recommendations:** 
+**4.Insights and recommendations:** 
 
 * People trust amazon as ecommerce  and 80% say they will purchase automobiles online.
 * Users need advice and more customer service for purchasing automobiles online.
